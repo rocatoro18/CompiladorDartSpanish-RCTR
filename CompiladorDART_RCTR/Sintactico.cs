@@ -10,7 +10,7 @@ namespace CompiladorDART_RCTR
     class Sintactico
     {
 
-        public List<Error> listaError; // lista de errores
+        public List<Error> listaError; // lista de errore
 
         public List<Token> listaTokens;  // va ser una copia de la lista de tokens original   ***** COLA  *****
 
